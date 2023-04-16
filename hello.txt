@@ -1,2 +1,7 @@
 hello 1
 world 2
+public class HelloTest{
+	public static void main {string[]args}{ 3
+		system.out.println("I like itcast")
+	}
+}
